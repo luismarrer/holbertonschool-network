@@ -1,7 +1,5 @@
-#!/bin/bash
-
+#!/usr/bin/env bash
 # Script para escuchar en el puerto 98 en localhost
-# Utiliza netcat (nc) para escuchar en el puerto especificado
 
 PORT=98
 
